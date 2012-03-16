@@ -103,7 +103,7 @@ class SugarCRMWebServices {
  * @author    WP Theme Tutorial, Curtis McHale
  * @since     SugarCRM Gravity Forms 0.1
  *
- * @link @todo add the link to the post
+ * @link      http://wp.me/p1Fud2-6P
  *
  */
 function theme_t_wp_send_info_to_sugar( $entry ){
