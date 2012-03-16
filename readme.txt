@@ -17,7 +17,7 @@ to edit the code of the plugin to get this working
 for yourself. You can see a tutorial on how to use it at the link
 below.
 
-@todo http://wp.me/p1Fud2-6P
+Tutorial: http://wp.me/p1Fud2-6P
 
 This also requires that you have a copy of Gravity Forms. The plugin is
 useless without it.
