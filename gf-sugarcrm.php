@@ -3,7 +3,7 @@
 Plugin Name: SugarCRM Gravity Forms
 Plugin URI: 
 Description: Adds Support for SugarCRM to a Gravity Forms Form
-Version: 0.1
+Version: 0.2
 Author: WP Theme Tutorial Curis McHale
 Author URI: http://wpthemetutorial.com
 License: GPLv2 or later
