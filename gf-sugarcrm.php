@@ -53,7 +53,7 @@ class SugarCRMWebServices {
     $this->username = $username;
     $this->password = $password;
     // Replace the URL with your copy of SugarCRM
-    $this->soap = new nusoap_client('younusoapclient');
+    $this->soap = new nusoap_client( 'http://younusoapclient.com/soap.php' );
   }
 
   // Login function which stores our session ID
